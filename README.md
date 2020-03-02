@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # About the project
 
 ## User interface Project #3: Implementing a UI Card button
@@ -9,3 +10,6 @@ The "User interface project" is a collection of simples UI widgets design based 
 
 Author
 Natan Pereira - (https://github.com/Natanlimap)
+=======
+# UI-chat
+>>>>>>> 286cd1e150bd98dcb685706af81c1512104cbfc1
